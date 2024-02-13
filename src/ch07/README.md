@@ -29,3 +29,7 @@
 클래스를 선언할때 final 클래스를 붙이면 부모 클래스가 될수 없어
 
 자식 클래스를 만들 수 없다.
+
+## 7.6 protected 접근 제한자
+
+public -> protected -> default -> private (순으로 접근제한이 강화)
